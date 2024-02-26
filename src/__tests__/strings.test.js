@@ -62,3 +62,4 @@ describe('firstCharacters', () => {
     expect(firstCharacters('asd', 2)).toEqual('as');
   });
 });
+
